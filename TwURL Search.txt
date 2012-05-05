@@ -1,0 +1,1 @@
+javascript:(function(){var%20d=document,l=d.location;open(l.protocol+'//twitter.com/#!/search/realtime/'+encodeURIComponent(l.href),'targetname');})()

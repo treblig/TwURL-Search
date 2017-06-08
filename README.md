@@ -3,6 +3,7 @@ TwURL-Search
 
 Bookmarklet to search Twitter for the URL of the site you&#39;re on
 
-1. Drag [this link](javascript:(function(){var%20d=document,l=d.location;open(l.protocol+'//twitter.com/search/realtime?q='+encodeURIComponent(l.href),'targetname');})()) into your bookmarks bar as a "bookmarklet". I named it "TwURL" in my bookmarks bar.
-2. Load up a the website that you'd like to find shares about.
-3. Click the bookmarklet you just created to search on Twitter.
+1. Go to https://github.com/treblig/TwURL-Search/blob/master/TwURL%20Search.txt.
+2. Select the text of the file (starting with "javascript:" and drag it into your bookmarks bar as a bookmarklet. I named it "TwURL" in my bookmarks bar.
+3. Load up a the website that you'd like to find shares about.
+4. Click the bookmarklet you just created to search on Twitter.

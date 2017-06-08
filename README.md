@@ -9,4 +9,4 @@ Bookmarklet to search Twitter for the URL of the site you&#39;re on
 4. Click the bookmarklet you just created to search on Twitter.
 
 Step 2 looks like...
-![http://g.recordit.co/tEAJShh3HK.gif]
+!(http://g.recordit.co/tEAJShh3HK.gif)
